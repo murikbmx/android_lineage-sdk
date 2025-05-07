@@ -93,6 +93,7 @@ java_defaults {
         "vendor.lineage.livedisplay-V2.1-java",
         "vendor.lineage.touch-V1-java",
         "vendor.lineage.touch-V1.0-java",
+        "LineageHealthProperties",
     ],
 }
 
